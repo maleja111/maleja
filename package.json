@@ -1,20 +1,20 @@
 {
-  "name": "bitandbang",
-  "version": "1.1.0",
-  "description": "A personal card for Tierney Cyren (@bitandbang)",
+  "name": "maleja",
+  "version": "1.1.1",
+  "description": "A personal card for Alejandra Giraldo (@maleja111), original from  Tierney Cyren (@bitandbang)",
   "main": "index.js",
   "bin": {
-    "bitandbang": "./bin/card.js"
+    "maleja": "./bin/card.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bnb/bitandbang.git"
+    "url": "https://github.com/maleja111/maleja.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Tierney Cyren <hello@bnb.im> (http://bnb.im)",
+  "author": "Alejandra Giraldo <magiraldodevelop@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "boxen": "^2.1.0",
